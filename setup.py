@@ -1,4 +1,3 @@
-
 import setuptools
 
 with open("README.md", "r") as file:
@@ -22,5 +21,4 @@ setuptools.setup(
     packages=["Topsis-Manmeet-101903173"],
     include_package_data=True,
     install_requires='pandas',
-    
 )
